@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "budgetbytes"
+version = "0.1.0"
+description = ""
+authors = ["Adan Patience <yobooooi@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+pandas = "^2.0.1"
+beautifulsoup4 = "^4.12.2"
+requests = "^2.30.0"
+parse-ingredients = "^0.0.4"
+flake8 = "^6.0.0"
+currencies = "^2020.12.12"
+flask = "^2.3.2"
+rich = "^13.3.5"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
