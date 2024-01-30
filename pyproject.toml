@@ -15,6 +15,7 @@ flake8 = "^6.0.0"
 currencies = "^2020.12.12"
 flask = "^2.3.2"
 rich = "^13.3.5"
+pony = "^0.7.16"
 
 
 [build-system]
